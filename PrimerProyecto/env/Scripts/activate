@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\crisg\OneDrive\Escritorio\Unam 2022-II\APLICACIONES WEB II\Proyectos\PrimerProyecto\env"
+VIRTUAL_ENV="C:\Users\crisg\OneDrive\Escritorio\web2\AppWeb\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

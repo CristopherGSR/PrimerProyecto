@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\crisg\OneDrive\Escritorio\Unam 2022-II\APLICACIONES WEB II\Proyectos\PrimerProyecto\env
+set VIRTUAL_ENV=C:\Users\crisg\OneDrive\Escritorio\web2\AppWeb\env
 
 if not defined PROMPT set PROMPT=$P$G
 
